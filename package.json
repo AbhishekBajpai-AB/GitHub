@@ -1,0 +1,26 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "bot",
+  "homepage": "https://github.com/AbhishekBajpai-AB/GitHub#readme",
+  "bugs": {
+    "url": "https://github.com/AbhishekBajpai-AB/GitHub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekBajpai-AB/GitHub.git"
+  },
+  "license": "ISC",
+  "author": "Abhishek",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.28.0"
+  }
+}
